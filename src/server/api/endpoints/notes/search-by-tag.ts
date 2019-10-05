@@ -225,6 +225,10 @@ export default define(meta, async (ps, me) => {
 				});
 				break;
 		}
+	} else {
+		push({
+			localOnly: { $ne: true }
+		});
 	}
 
 	if (ps.reply != null) {
