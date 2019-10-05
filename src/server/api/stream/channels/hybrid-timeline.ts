@@ -27,6 +27,10 @@ export default class extends Channel {
 
 	@autobind
 	private async onNewNote(note: any) {
+		if (this.user === null && note.localOnly) {
+			return;
+		}
+
 		// リプライなら再pack
 		if (note.replyId != null) {
 			note.reply = await pack(note.replyId, this.user, {
