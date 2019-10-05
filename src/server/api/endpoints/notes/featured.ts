@@ -43,6 +43,7 @@ export default define(meta, async (ps, user) => {
 		},
 		deletedAt: null,
 		visibility: 'public',
+		localOnly: { $ne: true },
 		'_user.host': null,
 		...(hideUserIds && hideUserIds.length > 0 ? { userId: { $nin: hideUserIds } } : {})
 	}, {
