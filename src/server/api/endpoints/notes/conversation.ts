@@ -63,7 +63,17 @@ export default define(meta, async (ps, user) => {
 
 	async function get(id: any) {
 		i++;
-		const p = await Note.findOne({ _id: id });
+		const q: any = {
+			_id: id
+		};
+		if (user === null) {
+			q.localOnly = { $ne: true };
+		}
+		const p = await Note.findOne(q);
+
+		if (p === null) {
+			return;
+		}
 
 		if (i > ps.offset) {
 			conversation.push(p);
