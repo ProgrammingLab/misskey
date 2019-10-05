@@ -159,7 +159,8 @@ export default define(meta, async (ps, me) => {
 	const sort = { } as any;
 
 	const visibleQuery = me == null ? [{
-		visibility: { $in: ['public', 'home'] }
+		visibility: { $in: ['public', 'home'] },
+		localOnly: { $ne: true }
 	}] : [{
 		visibility: {
 			$in: isFollowing ? ['public', 'home', 'followers'] : ['public', 'home']
