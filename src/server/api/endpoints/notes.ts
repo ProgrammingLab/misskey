@@ -47,6 +47,21 @@ export const meta = {
 			}
 		},
 
+		fileType: {
+			validator: $.optional.arr($.str),
+			desc: {
+				'ja-JP': '指定された種類のファイルが添付された投稿のみを取得します'
+			}
+		},
+
+		excludeNsfw: {
+			validator: $.optional.bool,
+			default: false,
+			desc: {
+				'ja-JP': 'true にすると、NSFW指定されたファイルを除外します(fileTypeが指定されている場合のみ有効)'
+			}
+		},
+
 		poll: {
 			validator: $.optional.bool,
 			desc: {
@@ -110,9 +125,25 @@ export default define(meta, async (ps) => {
 		query.renoteId = ps.renote ? { $exists: true, $ne: null } : null;
 	}
 
-	const withFiles = ps.withFiles != undefined ? ps.withFiles : ps.media;
+	const withFiles = ps.withFiles != null ? ps.withFiles : ps.media;
 
-	if (withFiles) query.fileIds = { $exists: true, $ne: null };
+	if (withFiles) {
+		query.fileIds = { $exists: true, $ne: [] };
+	}
+
+	if (ps.fileType) {
+		query.fileIds = { $exists: true, $ne: [] };
+
+		query['_files.contentType'] = {
+			$in: ps.fileType
+		};
+
+		if (ps.excludeNsfw) {
+			query['_files.metadata.isSensitive'] = {
+				$ne: true
+			};
+		}
+	}
 
 	if (ps.poll != undefined) {
 		query.poll = ps.poll ? { $exists: true, $ne: null } : null;

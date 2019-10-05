@@ -15,6 +15,8 @@ export const meta = {
 
 	tags: ['notes'],
 
+	requireCredential: true,
+
 	params: {
 		withFiles: {
 			validator: $.optional.bool,

@@ -188,7 +188,7 @@ export default Vue.extend({
 			'image/gif'
 		];
 
-		this.$root.api('notes/local-timeline', {
+		this.$root.api('notes', {
 			fileType: image,
 			excludeNsfw: true,
 			limit: 6
