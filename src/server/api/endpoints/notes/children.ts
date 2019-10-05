@@ -60,7 +60,8 @@ export default define(meta, async (ps, user) => {
 	]);
 
 	const visibleQuery = user == null ? [{
-		visibility: { $in: [ 'public', 'home' ] }
+		visibility: { $in: [ 'public', 'home' ] },
+		localOnly: { $ne: true }
 	}] : [{
 		visibility: { $in: [ 'public', 'home' ] }
 	}, {
