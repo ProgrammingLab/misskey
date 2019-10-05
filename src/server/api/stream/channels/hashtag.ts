@@ -24,6 +24,10 @@ export default class extends Channel {
 			const matched = q.some(tags => tags.every(tag => noteTags.includes(tag.toLowerCase())));
 			if (!matched) return;
 
+			if (this.user === null && note.localOnly) {
+				return;
+			}
+
 			// Renoteなら再pack
 			if (note.renoteId != null) {
 				note.renote = await pack(note.renoteId, this.user, {

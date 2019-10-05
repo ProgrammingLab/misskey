@@ -14,9 +14,14 @@ export default class extends Channel {
 		// Subscribe stream
 		this.subscriber.on(`userListStream:${listId}`, async data => {
 			// 再パック
-			if (data.type == 'note') data.body = await pack(data.body.id, this.user, {
-				detail: true
-			});
+			if (data.type == 'note') {
+				data.body = await pack(data.body.id, this.user, {
+					detail: true
+				});
+				if (this.user === null && data.body.localOnly) {
+					return;
+				}
+			}
 			this.send(data);
 		});
 	}
