@@ -21,15 +21,24 @@ export const meta = {
 	requireCredential: false,
 };
 
-export default define(meta, async () => {
+export default define(meta, async (ps, user) => {
 	const instance = await fetchMeta();
 	const hidedTags = instance.hidedTags.map(t => t.toLowerCase());
+	const localOnlyProtectorQuery = instance.protectLocalOnlyNotes && !user ? {
+		localOnly: {
+			$ne: true
+		}
+	} : {};
 
 	//#region 1. 直近Aの内に投稿されたハッシュタグ(とユーザーのペア)を集計
 	const data = await Note.aggregate([{
 		$match: {
+			...localOnlyProtectorQuery,
 			createdAt: {
 				$gt: new Date(Date.now() - rangeA)
+			},
+			visibility: {
+				$in: ['public', 'home']
 			},
 			tagsLower: {
 				$exists: true,
@@ -78,7 +87,11 @@ export default define(meta, async () => {
 	//#region 2. 1で取得したそれぞれのタグについて、「直近a分間のユニーク投稿数が今からa分前～今からb分前の間のユニーク投稿数のn倍以上」かどうかを判定する
 	const hotsPromises = limitedTags.map(async tag => {
 		const passedCount = (await Note.distinct('userId', {
+			...localOnlyProtectorQuery,
 			tagsLower: tag.name,
+			visibility: {
+				$in: ['public', 'home']
+			},
 			createdAt: {
 				$lt: new Date(Date.now() - rangeA),
 				$gt: new Date(Date.now() - rangeB)
@@ -119,7 +132,11 @@ export default define(meta, async () => {
 
 	for (let i = 0; i < range; i++) {
 		countPromises.push(Promise.all(hots.map(tag => Note.distinct('userId', {
+			...localOnlyProtectorQuery,
 			tagsLower: tag,
+			visibility: {
+				$in: ['public', 'home']
+			},
 			createdAt: {
 				$lt: new Date(Date.now() - (interval * i)),
 				$gt: new Date(Date.now() - (interval * (i + 1)))
@@ -130,7 +147,11 @@ export default define(meta, async () => {
 	const countsLog = await Promise.all(countPromises);
 
 	const totalCounts: any = await Promise.all(hots.map(tag => Note.distinct('userId', {
+		...localOnlyProtectorQuery,
 		tagsLower: tag,
+		visibility: {
+			$in: ['public', 'home']
+		},
 		createdAt: {
 			$gt: new Date(Date.now() - (interval * range))
 		}

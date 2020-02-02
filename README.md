@@ -103,83 +103,92 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 ----------------------------------------------------------------
 <!-- PATREON_START -->
 <table><tr>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5888816/36da0f7c15954df0ab13f9abdf227f66/1.jpeg?token-time=2145916800&token-hash=at8QpJXJ8C0zINY_NmoMKv-MhXVoUK-YzTgaJPJzJYU%3D" alt="Hiroshi Seki" width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/20832595" alt="Roujo" width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/27956229" alt="Oliver Maximilian Seidel" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/12190916/fb7fa7983c14425f890369535b1506a4/3.png?token-time=2145916800&token-hash=oH_i7gJjNT7Ot6j9JiVwy7ZJIBqACVnzLqlz4YrDAZA%3D" alt="weepjp" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/605366/c9dc408fdcbf412fb183ca5b06235f8d/1.jpeg?token-time=2145916800&token-hash=oaqsjLqOFjWN5I9hm2epOaTXaEtKwQUy5OW-EpAz6-g%3D" alt="Jon Leibowitz" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/19045173/cb91c0f345c24d4ebfd05f19906d5e26/1.png?token-time=2145916800&token-hash=o_zKBytJs_AxHwSYw_5R8eD0eSJe3RoTR3kR3Q0syN0%3D" alt="kiritan" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/24430516/b1964ac5b9f746d2a12ff53dbc9aa40a/1.jpg?token-time=2145916800&token-hash=bmEiMGYpp3bS7hCCbymjGGsHBZM3AXuBOFO3Kro37PU%3D" alt="Eduardo Quiros" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/14215107/1cbe1912c26143919fa0faca16f12ce1/3.png?token-time=2145916800&token-hash=Zq1TCK2tdY7xudEm_aV70bc_wxmol6pNj3ZWbpFUNbI%3D" alt="Nesakko" width="100"></td>
 <td><img src="https://c8.patreon.com/2/200/776209" alt="Denshi" width="100"></td>
-<td><img src="https://c8.patreon.com/2/200/557245" alt="mkatze" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/13099460/43cecdbaa63a40d79bf50a96b9910b9d/1.jpe?token-time=2145916800&token-hash=bqwLTk0Wo0hUJJ8J5y7ii05bLzz-_CDA7Bo0Mp4RFU0%3D" alt="ne_moni" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/12913507/f7181eacafe8469a93033d85f5969c29/4.jpe?token-time=2145916800&token-hash=zEyJqVM7u9d8Ri-65fJYSJcWF1jBH1nJ5a3taRzrTmw%3D" alt="Melilot" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5670915/ee175f0bfb6347ffa4ea101a8c097bff/1.jpg?token-time=2145916800&token-hash=mPLM9CA-riFHx-myr3bLZJuH2xBRHA9se5VbHhLIOuA%3D" alt="osapon" width="100"></td>
 </tr><tr>
-<td><a href="https://www.patreon.com/rane_hs">Hiroshi Seki</a></td>
+<td><a href="https://www.patreon.com/user?u=20832595">Roujo</a></td>
+<td><a href="https://www.patreon.com/user?u=27956229">Oliver Maximilian Seidel</a></td>
 <td><a href="https://www.patreon.com/weepjp">weepjp</a></td>
+<td><a href="https://www.patreon.com/jonleibowitz">Jon Leibowitz</a></td>
 <td><a href="https://www.patreon.com/user?u=19045173">kiritan</a></td>
+<td><a href="https://www.patreon.com/user?u=24430516">Eduardo Quiros</a></td>
+<td><a href="https://www.patreon.com/Nesakko">Nesakko</a></td>
 <td><a href="https://www.patreon.com/user?u=776209">Denshi</a></td>
-<td><a href="https://www.patreon.com/user?u=557245">mkatze</a></td>
-<td><a href="https://www.patreon.com/user?u=13099460">ne_moni</a></td>
-<td><a href="https://www.patreon.com/user?u=12913507">Melilot</a></td>
-<td><a href="https://www.patreon.com/osapon">osapon</a></td>
 </tr></table>
 <table><tr>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/3075183/c2ae575c604e420297f000ccc396e395/1.jpeg?token-time=2145916800&token-hash=O9qmPtpo6wWb0OuvnkEekhk_1WO2MTdytLr7ZgsAr80%3D" alt="Liaizon Wakest" width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/557245" alt="mkatze" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/23915207/25428766ecd745478e600b3d7f871eb2/1.png?token-time=2145916800&token-hash=urCLLA4KjJZX92Y1CxcBP4d8bVTHGkiaPnQZp-Tqz68%3D" alt="kabo2468y" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/8249688/4aacf36b6b244ab1bc6653591b6640df/2.png?token-time=2145916800&token-hash=1ZEf2w6L34253cZXS_HlVevLEENWS9QqrnxGUAYblPo%3D" alt="AureoleArk" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5670915/ee175f0bfb6347ffa4ea101a8c097bff/1.jpg?token-time=2145916800&token-hash=mPLM9CA-riFHx-myr3bLZJuH2xBRHA9se5VbHhLIOuA%3D" alt="osapon" width="100"></td>
 <td><img src="https://c8.patreon.com/2/200/16869916" alt="見当かなみ" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/18899730/6a22797f68254034a854d69ea2445fc8/1.png?token-time=2145916800&token-hash=b_uj57yxo5VzkSOUS7oXE_762dyOTB_oxzbO6lFNG3k%3D" alt="YuzuRyo61" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/12021162/963128bb8d14476dbd8407943db8f31a/1.png?token-time=2145916800&token-hash=FMV7cPKBD1TU2WTbl1jg6AcdKSvTb2BSFcDhgc-EO8w%3D" alt="gutfuckllc" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5788159/af42076ab3354bb49803cfba65f94bee/1.jpg?token-time=2145916800&token-hash=iSaxp_Yr2-ZiU2YVi9rcpZZj9mj3UvNSMrZr4CU4qtA%3D" alt="mewl hayabusa" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/11357794/923ce94cd8c44ba788ee931907881839/1.png?token-time=2145916800&token-hash=9nEQje_eMvUjq9a7L3uBqW-MQbS-rRMaMgd7UYVoFNM%3D" alt="mydarkstar" width="100"></td>
-<td><img src="https://c8.patreon.com/2/200/12718187" alt="Peter G." width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/13039004/509d0c412eb14ae08d6a812a3054f7d6/1.jpe?token-time=2145916800&token-hash=UQRWf01TwHDV4Cls1K0YAOAjM29ssif7hLVq0ESQ0hs%3D" alt="nemu" width="100"></td>
-<td><img src="https://c8.patreon.com/2/200/17866454" alt="sikyosyounin" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5881381/6235ca5d3fb04c8e95ef5b4ff2abcc18/3.png?token-time=2145916800&token-hash=KjfQL8nf3AIf6WqzLshBYAyX44piAqOAZiYXgZS_H6A%3D" alt="YUKIMOCHI" width="100"></td>
-<td><img src="https://c8.patreon.com/2/200/17463605" alt="Sampot" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/19356899/496b4681d33b4520bd7688e0fd19c04d/2.jpeg?token-time=2145916800&token-hash=_sTj3dUBOhn9qwiJ7F19Qd-yWWfUqJC_0jG1h0agEqQ%3D" alt="sheeta.s" width="100"></td>
 </tr><tr>
+<td><a href="https://www.patreon.com/wakest">Liaizon Wakest</a></td>
+<td><a href="https://www.patreon.com/user?u=557245">mkatze</a></td>
+<td><a href="https://www.patreon.com/user?u=23915207">kabo2468y</a></td>
+<td><a href="https://www.patreon.com/AureoleArk">AureoleArk</a></td>
+<td><a href="https://www.patreon.com/osapon">osapon</a></td>
 <td><a href="https://www.patreon.com/user?u=16869916">見当かなみ</a></td>
 <td><a href="https://www.patreon.com/Yuzulia">YuzuRyo61</a></td>
-<td><a href="https://www.patreon.com/gutfuckllc">gutfuckllc</a></td>
+<td><a href="https://www.patreon.com/hs_sh_net">mewl hayabusa</a></td>
 <td><a href="https://www.patreon.com/mydarkstar">mydarkstar</a></td>
-<td><a href="https://www.patreon.com/user?u=12718187">Peter G.</a></td>
-<td><a href="https://www.patreon.com/user?u=13039004">nemu</a></td>
-<td><a href="https://www.patreon.com/user?u=17866454">sikyosyounin</a></td>
-<td><a href="https://www.patreon.com/yukimochi">YUKIMOCHI</a></td>
-<td><a href="https://www.patreon.com/user?u=17463605">Sampot</a></td>
-<td><a href="https://www.patreon.com/user?u=19356899">sheeta.s</a></td>
 </tr></table>
 <table><tr>
+<td><img src="https://c8.patreon.com/2/200/16542964" alt="Takumi Sugita" width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/17866454" alt="sikyosyounin" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5881381/6235ca5d3fb04c8e95ef5b4ff2abcc18/3.png?token-time=2145916800&token-hash=KjfQL8nf3AIf6WqzLshBYAyX44piAqOAZiYXgZS_H6A%3D" alt="YUKIMOCHI" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/26340354/08834cf767b3449e93098ef73a434e2f/2.png?token-time=2145916800&token-hash=nyM8DnKRL8hR47HQ619mUzsqVRpkWZjgtgBU9RY15Uc%3D" alt="totokoro" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/19356899/496b4681d33b4520bd7688e0fd19c04d/2.jpeg?token-time=2145916800&token-hash=_sTj3dUBOhn9qwiJ7F19Qd-yWWfUqJC_0jG1h0agEqQ%3D" alt="sheeta.s" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5827393/59893c191dda408f9cabd0f20a3a5627/1.jpeg?token-time=2145916800&token-hash=i9N05vOph-eP1LTLb9_npATjYOpntL0ZsHNaZFSsPmE%3D" alt="motcha" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/13737140/1adf7835017d479280d90fe8d30aade2/1.png?token-time=2145916800&token-hash=0pdle8h5pDZrww0BDOjdz6zO-HudeGTh36a3qi1biVU%3D" alt="Satsuki Yanagi" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/17880724/311738c8a48f4a6b9443c2445a75adde/1.jpe?token-time=2145916800&token-hash=CPxGQhKIlEaa6WUcgbyHixyKEhakiw9RFdOhsIJBQ_o%3D" alt="takimura" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/17195955/be45e5e14c3e48b2bee0456c84e19df4/4.jpe?token-time=2145916800&token-hash=UslrPVM-8TXOe8AapuNiaFYjcIJgPNcU-fKpGbfGJNI%3D" alt="Damillora" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/16900731/83884b38afc74d4cbe83c30a13b10edd/1.png?token-time=2145916800&token-hash=R5Tog8RWg0rguRoCIoir3lThokrdPvs8Utfikhc0nhY%3D" alt="Atsuko Tominaga" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/13100201/fc5be4fa90444f09a9c8a06f72385272/1.png?token-time=2145916800&token-hash=i8PjlgfOB2LPEdbtWyx8ZPsBKhGcNZqcw_FQmH71UGU%3D" alt="aqz tamaina" width="100"></td>
+</tr><tr>
+<td><a href="https://www.patreon.com/user?u=16542964">Takumi Sugita</a></td>
+<td><a href="https://www.patreon.com/user?u=17866454">sikyosyounin</a></td>
+<td><a href="https://www.patreon.com/yukimochi">YUKIMOCHI</a></td>
+<td><a href="https://www.patreon.com/user?u=26340354">totokoro</a></td>
+<td><a href="https://www.patreon.com/user?u=19356899">sheeta.s</a></td>
+<td><a href="https://www.patreon.com/user?u=5827393">motcha</a></td>
+<td><a href="https://www.patreon.com/user?u=13737140">Satsuki Yanagi</a></td>
+<td><a href="https://www.patreon.com/takimura">takimura</a></td>
+<td><a href="https://www.patreon.com/aqz">aqz tamaina</a></td>
+</tr></table>
+<table><tr>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/16900731/619ab87cc08448439222631ebb26802f/1.gif?token-time=2145916800&token-hash=o27K7M02s1z-LkDUEO5Oa7cu-GviRXeOXxryi4o_6VU%3D" alt="Atsuko Tominaga" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/4389829/9f709180ac714651a70f74a82f3ffdb9/3.png?token-time=2145916800&token-hash=FTm3WVom4dJ9NwWMU4OpCL_8Yc13WiwEbKrDPyTZTPs%3D" alt="natalie" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/13034746/c711c7f58e204ecfbc2fd646bc8a4eee/1.jpe?token-time=2145916800&token-hash=EWxXhVbZYH7KB4IDT3joc8TbIg8zPO40x1r5IDn3R7c%3D" alt="Hiratake" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5923936/2a743cbfbff946c2af3f09026047c0da/2.png?token-time=2145916800&token-hash=h6yphW1qnM0n_NOWaf8qtszMRLXEwIxfk5beu4RxdT0%3D" alt="noellabo" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/2384390/5681180e1efb46a8b28e0e8d4c8b9037/1.jpg?token-time=2145916800&token-hash=SJcMy-Q1BcS940-LFUVOMfR7-5SgrzsEQGhYb3yowFk%3D" alt="CG" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/18072312/98e894d960314fa7bc236a72a39488fe/1.jpe?token-time=2145916800&token-hash=qA8j97lIZNc-74AuZ0p4F3ms6sKPeKjtNt2vEuwpsyo%3D" alt="Hekovic" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/10789744/97175095d8f04c0f86225ff47cb98d40/1.jpeg?token-time=2145916800&token-hash=l4AoMR7Nj7K4yAHrkrk2hAoggPkbSPm12m1nmbe9Pb8%3D" alt="Naoki Hirayama" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/4503830/ccf2cc867ea64de0b524bb2e24b9a1cb/1.jpeg?token-time=2145916800&token-hash=L55UhJ0rcuNAH3w_ryeeGN4hC6taoOixyAhraEi0bzw%3D" alt="dansup" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5731881/4b6038e6cda34c04b83a5fcce3806a93/1.png?token-time=2145916800&token-hash=hBayGfOmQH3kRMdNnDe4oCZD_9fsJWSt29xXR3KRMVk%3D" alt="Nokotaro Takeda" width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/23932002" alt="nenohi" width="100"></td>
 </tr><tr>
-<td><a href="https://www.patreon.com/user?u=13737140">Satsuki Yanagi</a></td>
-<td><a href="https://www.patreon.com/takimura">takimura</a></td>
-<td><a href="https://www.patreon.com/damillora">Damillora</a></td>
 <td><a href="https://www.patreon.com/user?u=16900731">Atsuko Tominaga</a></td>
 <td><a href="https://www.patreon.com/user?u=4389829">natalie</a></td>
-<td><a href="https://www.patreon.com/hiratake">Hiratake</a></td>
 <td><a href="https://www.patreon.com/noellabo">noellabo</a></td>
 <td><a href="https://www.patreon.com/Corset">CG</a></td>
 <td><a href="https://www.patreon.com/hekovic">Hekovic</a></td>
-<td><a href="https://www.patreon.com/spinlock">Naoki Hirayama</a></td>
+<td><a href="https://www.patreon.com/dansup">dansup</a></td>
+<td><a href="https://www.patreon.com/takenoko">Nokotaro Takeda</a></td>
+<td><a href="https://www.patreon.com/user?u=23932002">nenohi</a></td>
 </tr></table>
 <table><tr>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/4503830/ccf2cc867ea64de0b524bb2e24b9a1cb/1.jpeg?token-time=2145916800&token-hash=L55UhJ0rcuNAH3w_ryeeGN4hC6taoOixyAhraEi0bzw%3D" alt="dansup" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/619786/32cf01444db24e578cd1982c197f6fc6/1.jpeg?token-time=2145916800&token-hash=d8jBQLMOHD87KtXs5C9fk1o58DMF73pQ-dYH3uZJPBE%3D" alt="Gargron" width="100"></td>
-<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5731881/4b6038e6cda34c04b83a5fcce3806a93/1.png?token-time=2145916800&token-hash=hBayGfOmQH3kRMdNnDe4oCZD_9fsJWSt29xXR3KRMVk%3D" alt="Nokotaro Takeda" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/12531784/93a45137841849329ba692da92ac7c60/1.jpeg?token-time=2145916800&token-hash=vGe7wXGqmA8Q7m-kDNb6fyGdwk-Dxk4F-ut8ZZu51RM%3D" alt="Takashi Shibuya" width="100"></td>
 </tr><tr>
-<td><a href="https://www.patreon.com/dansup">dansup</a></td>
-<td><a href="https://www.patreon.com/mastodon">Gargron</a></td>
-<td><a href="https://www.patreon.com/takenoko">Nokotaro Takeda</a></td>
 <td><a href="https://www.patreon.com/user?u=12531784">Takashi Shibuya</a></td>
 </tr></table>
 
-**Last updated:** Mon, 03 Jun 2019 17:28:09 UTC
+**Last updated:** Wed, 29 Jan 2020 21:11:07 UTC
 <!-- PATREON_END -->
 
 :four_leaf_clover: Copyright

@@ -8,7 +8,7 @@ export const meta = {
 	requireCredential: false,
 };
 
-export default define(meta, async (ps) => {
+export default define(meta, async (ps, user) => {
 	const instance = await fetchMeta();
 	const hidedTags = instance.hidedTags.map(t => t.toLowerCase());
 
@@ -22,6 +22,14 @@ export default define(meta, async (ps) => {
 			createdAt: {
 				$gt: new Date(Date.now() - span)
 			},
+			visibility: {
+				$in: ['public', 'home']
+			},
+			...(instance.protectLocalOnlyNotes && !user ? {
+				localOnly: {
+					$ne: true
+				}
+			} : {}),
 			tagsLower: {
 				$exists: true,
 				$ne: []
